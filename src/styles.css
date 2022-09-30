@@ -26,6 +26,14 @@ li {
   list-style: none;
 }
 
+small {
+  display: inline-block;
+}
+#footer {
+  display: table;
+  margin: 0 auto;
+}
+
 .weather-app {
   border: 1px solid #dadde1;
   padding: 15px;
